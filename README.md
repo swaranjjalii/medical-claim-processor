@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Medical Claim Processor
 
 ## Project overview
@@ -177,3 +178,6 @@ If you'd like, I can now:
 - Implement vector store integration with a quick FAISS/Chroma example and a small retrieval pipeline.
 
 Pick one and I'll proceed.
+=======
+# medical-claim-processor
+>>>>>>> 897ece77b671c863d4126bd38e0d429186e018bc
