@@ -1,0 +1,35 @@
+# FastAPI and server
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Pydantic for data validation
+pydantic
+pydantic-settings
+
+# LLM integrations
+groq
+openai  # Alternative LLM option
+
+# PDF processing
+PyPDF2
+pdfplumber
+python-magic
+
+# Image processing (for OCR)
+Pillow
+pytesseract  # Requires tesseract-ocr system installation
+
+# Agent orchestration
+langgraph
+langchain
+langchain-core
+
+# Utilities
+python-dotenv
+aiofiles
+
+# Testing (optional)
+pytest
+pytest-asyncio
+httpx
